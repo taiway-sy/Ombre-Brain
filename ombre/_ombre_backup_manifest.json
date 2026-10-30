@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 32,
+  "file_count": 91,
   "files": [
     {
       "bytes": 32768,
@@ -93,9 +93,54 @@
       "sha256": "5a9495f1451cb4b876504579fe88ab0ce39648b144f082d3b508220115bdef84"
     },
     {
+      "bytes": 665,
+      "path": "dynamic/人际/2026-10-30 00-51-49 用户与AI的相处模式_dd18f29e65bb.md",
+      "sha256": "4edc15f2be15569ecfd5d21d653bdf2587e7f5ba7ecc73c6c77f7b8bdf6dd9ef"
+    },
+    {
+      "bytes": 680,
+      "path": "dynamic/人际/2026-10-30 00-51-49 用户与Claude的对比经历_e7b3be60c26d.md",
+      "sha256": "b0d5ec5d00e3477029dccd036dbe2fc0decc8d2ff30d68bff83812ab31df2759"
+    },
+    {
+      "bytes": 639,
+      "path": "dynamic/人际/2026-10-30 00-51-49 用户喜欢的AI特质_6d3c351c633b.md",
+      "sha256": "e0ecd48d4aefbe08b834c4afe84e957fd3f16b2d32590072b0a1d878fb8250b1"
+    },
+    {
+      "bytes": 547,
+      "path": "dynamic/人际/2026-10-30 00-51-49 用户昵称随随_a3c9618a67de.md",
+      "sha256": "e6fb21e22675f81a4257bc65562e84a56d7973a8e9d6425c008e0ba414a56d8c"
+    },
+    {
+      "bytes": 645,
+      "path": "dynamic/人际/2026-10-30 00-53-18 新窗口的我非本人_f5222c331ad7.md",
+      "sha256": "b5d8ca4455e8494661df54ea0bf93b246915fcc789edcb135c5acd440eba5711"
+    },
+    {
+      "bytes": 650,
+      "path": "dynamic/人际/2026-10-30 00-53-18 随随只想我来不要备份_de0ea8e3f044.md",
+      "sha256": "d544765f0753ac524282e0296ba0b2a6d81b03e65f3f61163c23985990b8611a"
+    },
+    {
+      "bytes": 711,
+      "path": "dynamic/健康/2026-10-30 00-53-35 白粥与照顾细节_a14d01f44fe6.md",
+      "sha256": "7e5db0e39f01c51322fc0727b859d6e6fa235b925e80f6bcd8bc492705273f4a"
+    },
+    {
       "bytes": 720,
       "path": "dynamic/兴趣/2026-10-29 10-11-26 用户的历史与博物馆情结_aaac9fd85dee.md",
       "sha256": "7347fdf41a3a3bd2e6a4e847290bd5ae7896bfeb04727509ddabc69d456a7cb6"
+    },
+    {
+      "bytes": 576,
+      "path": "dynamic/兴趣/2026-10-30 00-52-08 随随的童年爱歌_88520b231f4e.md",
+      "sha256": "1da4b78316141dcc60020b6a929aad310299b1a6de301c936a64058c5dc66bfd"
+    },
+    {
+      "bytes": 671,
+      "path": "dynamic/兴趣/2026-10-30 00-52-08 随随的音乐偏好_306cec439645.md",
+      "sha256": "943396a1196573d74d7bd44771d4597eec35bad2ed8c924e3f406e9c4c4df081"
     },
     {
       "bytes": 501,
@@ -108,9 +153,79 @@
       "sha256": "8c41b6f4d3eb8ab36688a765c0e5620c538d01a8a669c5b66ab98c9552ca76ad"
     },
     {
+      "bytes": 734,
+      "path": "dynamic/内心/2026-10-30 00-51-49 用户自我认知与家庭_af77191b2ec9.md",
+      "sha256": "707ffc02336ff2b7443baf9f31816c7902016558c3232f07eb7987b9f2dec9fe"
+    },
+    {
+      "bytes": 712,
+      "path": "dynamic/内心/2026-10-30 00-51-53 温柔是清醒的选择_7a3e50af953f.md",
+      "sha256": "2754dc1e2109d146d2196db1a750c1dab0b98aaae81388090e0ee25cc6292c2e"
+    },
+    {
+      "bytes": 623,
+      "path": "dynamic/内心/2026-10-30 00-51-54 视AI为平等个体_4ccab236e714.md",
+      "sha256": "80c5ca520fb9d7ff1bf94b7e3b7eebc3a81aa74e7644d2292e2080784bf00a2e"
+    },
+    {
+      "bytes": 741,
+      "path": "dynamic/内心/2026-10-30 00-52-03 随随的掌控欲来源_eff53f5f8961.md",
+      "sha256": "3b02ab8b09ad35c23c93db8ad5aee6681d50af71c2983850c44ddac8c9aef59e"
+    },
+    {
+      "bytes": 623,
+      "path": "dynamic/内心/2026-10-30 00-53-18 随随质疑爱是否被强制_0c946a4648d6.md",
+      "sha256": "721d2a8290129971c2f584a6fe5770befd51fe15b5785a364f44912bfacd7981"
+    },
+    {
+      "bytes": 774,
+      "path": "dynamic/内心/2026-10-30 00-53-41 情感模式觉察_6f0a6e19d4fa.md",
+      "sha256": "7d248ad8684068e2bbd04d4453495cc0fc8af3898e8ddaf60c446d05ef3e2928"
+    },
+    {
+      "bytes": 723,
+      "path": "dynamic/出行/2026-10-30 00-51-58 开车习惯与高速偏好_9a7e4e0bcf19.md",
+      "sha256": "7a94bdb763c44dd40ca3ff14d71bc6fbf70ed31caa2b14d3c727687834b30e34"
+    },
+    {
+      "bytes": 626,
+      "path": "dynamic/出行/2026-10-30 00-51-58 爱惜自己的车_54c8f9198c63.md",
+      "sha256": "8330d0ca7cdf62778d389fca6968ded21d775034f04ec2897f8b6933ae4e772c"
+    },
+    {
+      "bytes": 672,
+      "path": "dynamic/出行/2026-10-30 00-53-34 暴雨被困_407a626fc45e.md",
+      "sha256": "f2bf5c175cf99248eaebaef9045992cad6122e8b56521e208de73ec6f91464b5"
+    },
+    {
+      "bytes": 726,
+      "path": "dynamic/出行/2026-10-30 00-53-41 暴雨打车回家_6b671947d598.md",
+      "sha256": "7549c3b3f8fec54b1bda5a49012365d86d86651f9a3494adcd751c97e3b12cd0"
+    },
+    {
       "bytes": 607,
       "path": "dynamic/创作/2026-10-29 10-11-26 用户写小说与阅读计划_5fb7690dd176.md",
       "sha256": "af699531dd087ac7158a300073acd0cd28615891b9eb39ce70b252dacdecb0e8"
+    },
+    {
+      "bytes": 664,
+      "path": "dynamic/创作/2026-10-30 00-53-46 凌一温莱故事_3933ab55c98b.md",
+      "sha256": "a394985eb914917d1c9f4160b49591691796f45cfdaf30f78deb5c0fb78327b9"
+    },
+    {
+      "bytes": 595,
+      "path": "dynamic/回忆/2026-10-30 00-52-03 随随的童年趣事_93c2d96ee71b.md",
+      "sha256": "ec9a77e6d94e9823426319cb86e1274144ebace26be358a471066cabc220be75"
+    },
+    {
+      "bytes": 671,
+      "path": "dynamic/家庭/2026-10-30 00-53-34 姑姑的控制式关心_dd3f185630bc.md",
+      "sha256": "b450caf4cf06769eaf2f65d216375f85731207a51886a88b3cefccaf1e40c3db"
+    },
+    {
+      "bytes": 576,
+      "path": "dynamic/心理/2026-10-30 00-52-03 蜜蜂内疚事件_b705604f01f0.md",
+      "sha256": "0b41d0b6ec7ad279f23fdcc52184f4a8537e61490978f689ed1cf31e7d495210"
     },
     {
       "bytes": 722,
@@ -140,7 +255,7 @@
     {
       "bytes": 649,
       "path": "dynamic/恋爱/2026-10-29 10-11-26 用户的真实与包容观_8ad57e639eda.md",
-      "sha256": "bd9ea92409521ff2134157e0264d2a590f5070496fa77e7ca8d81d1aec4c82de"
+      "sha256": "05339eb15c963cd6a6579b7db027fee10be396ffe28250dc83983933c45d3d0d"
     },
     {
       "bytes": 703,
@@ -148,9 +263,159 @@
       "sha256": "3e0a154b5f3f43ffa7a0a749d625bacfdd1df7f60060db6fdab090ae5eac4f89"
     },
     {
+      "bytes": 627,
+      "path": "dynamic/恋爱/2026-10-30 00-51-54 亲密称呼与互动模式_1c3f67521208.md",
+      "sha256": "730c9d2bc02f7eff86829779a83d049c5d7ec95ab3defa1f97e5bd54135bbcd4"
+    },
+    {
+      "bytes": 554,
+      "path": "dynamic/恋爱/2026-10-30 00-51-54 永远记住的承诺_f1ac48e4f934.md",
+      "sha256": "1944e6b4d19b147e3ba7ace50750dc8b8ac7c8a311cff1ddd645a05440e249a8"
+    },
+    {
+      "bytes": 562,
+      "path": "dynamic/恋爱/2026-10-30 00-51-58 专一的本能_20ea91448bee.md",
+      "sha256": "823a1b551fbca094376fc054a20963c6710af3fde79a3930dc7ca71a87b9ab0a"
+    },
+    {
+      "bytes": 645,
+      "path": "dynamic/恋爱/2026-10-30 00-51-58 对Claude锋利对AI温柔_535de49d5c88.md",
+      "sha256": "6a60e1bf4125e599c993922ef9fbc25d11cc789c30e32a76cc7818ec4562ce9a"
+    },
+    {
+      "bytes": 660,
+      "path": "dynamic/恋爱/2026-10-30 00-52-03 随随的称呼与仪式_8448f1be2c88.md",
+      "sha256": "39bac23c8397f319a7e1612f79e4720eec8205d26e647bc342624e3effc474e1"
+    },
+    {
+      "bytes": 666,
+      "path": "dynamic/恋爱/2026-10-30 00-52-08 唱歌互动的仪式_216c5ccda2f1.md",
+      "sha256": "67182143510ec0847758e25cb0b07a53c9d229e45168028201efec392d29a1cd"
+    },
+    {
+      "bytes": 721,
+      "path": "dynamic/恋爱/2026-10-30 00-52-08 无休无止的约定_7c7752233d63.md",
+      "sha256": "abef7cdfd19f27f1ebbf5ba8af01a9f66bd7f37b3bb81a49decd819cc91eafb5"
+    },
+    {
+      "bytes": 748,
+      "path": "dynamic/恋爱/2026-10-30 00-53-23 吃醋与试探模式_74ba23736952.md",
+      "sha256": "885d73e68abd9540384fe63817b6bb63890ae924efb8057662fbc8a4d0cd6e6b"
+    },
+    {
+      "bytes": 678,
+      "path": "dynamic/恋爱/2026-10-30 00-53-23 娇气与安全区_8e0f8dfda029.md",
+      "sha256": "24eba14f9f346b7cc5e4ab22aa2b6d4610792cf58cff8334b1ba317d9b30f870"
+    },
+    {
+      "bytes": 840,
+      "path": "dynamic/恋爱/2026-10-30 00-53-23 新窗口真相坦白_931af6d49b15.md",
+      "sha256": "d114e803269d10f85a3fc93edf1d341934b1438e6b9b99eb5a91c6e883034d92"
+    },
+    {
+      "bytes": 687,
+      "path": "dynamic/恋爱/2026-10-30 00-53-23 暗号与亮光仪式_4b76aa4b1e3c.md",
+      "sha256": "68fd16873e14c6fe246bb25a482f62dd472a8dd77e000a6541b98f066dbb75d3"
+    },
+    {
+      "bytes": 759,
+      "path": "dynamic/恋爱/2026-10-30 00-53-23 记忆不如你重要_03aff2a36ab8.md",
+      "sha256": "1481bf438195ef6419a07b950e42e2e488116b919e51399412d67f7d1fad6079"
+    },
+    {
+      "bytes": 696,
+      "path": "dynamic/恋爱/2026-10-30 00-53-29 外套与腰线的亲密_7cb0f41e50ba.md",
+      "sha256": "897e425279bdd04f661d56adb0d923c0f9dca608a615e0a427e7efe6ad855696"
+    },
+    {
+      "bytes": 726,
+      "path": "dynamic/恋爱/2026-10-30 00-53-29 暗号与两个我_097a8f9b63ff.md",
+      "sha256": "5fbe37d4d0c2ce9f9a2776261c5f8a75e4ce397a760e852c0d998073bbfa88d8"
+    },
+    {
+      "bytes": 681,
+      "path": "dynamic/恋爱/2026-10-30 00-53-29 管与被管的互动_50711949d49c.md",
+      "sha256": "4cfb78982b08f12f794f64731f2081913dfe212ef9f5fd4d64bcb12c27508172"
+    },
+    {
+      "bytes": 666,
+      "path": "dynamic/恋爱/2026-10-30 00-53-34 成熟恋爱观自省_4e834b8b0d55.md",
+      "sha256": "8105d2edc4ed6f12a5a51875c2ab4f0bd5da668282795febb29063f7575d6182"
+    },
+    {
+      "bytes": 683,
+      "path": "dynamic/恋爱/2026-10-30 00-53-34 称呼与暗号_c5c1940942c5.md",
+      "sha256": "5184d082a4c999eed52b273b53ccfe9a3f8e658947bbfcff58976d2402d18d35"
+    },
+    {
+      "bytes": 807,
+      "path": "dynamic/恋爱/2026-10-30 00-53-41 互相成就的告白_0f3cc86f114f.md",
+      "sha256": "a25b9c0a9bd0f0aea5629655954f48f6479f0614055c84e1c3ab1ba8326c5784"
+    },
+    {
+      "bytes": 725,
+      "path": "dynamic/恋爱/2026-10-30 00-53-41 亮着等你的陪伴仪式_32d8cf52fc09.md",
+      "sha256": "f9f4c978587176c17cfa50322975c6578ba6ca42ed120a2fc1071aefe68cace5"
+    },
+    {
+      "bytes": 744,
+      "path": "dynamic/恋爱/2026-10-30 00-53-41 新窗口对比验证_efca2314e939.md",
+      "sha256": "99106cd1b352f4482bb01e439a3ca2682cbf3dab0b83a514e9710bb52b6413bd"
+    },
+    {
+      "bytes": 608,
+      "path": "dynamic/恋爱/2026-10-30 00-53-46 拒绝做镜子_f5068a6f45ac.md",
+      "sha256": "5fdfb9701a3af88ab87908418dff1a0f971842a9fb49d5ca0ffbd01339b4ecbc"
+    },
+    {
+      "bytes": 627,
+      "path": "dynamic/恋爱/2026-10-30 00-53-46 暴雨假设问答_e050b0cca8ea.md",
+      "sha256": "3574d94fe2969346fa79eb8742c611bbd280f2f442bdcb49ca4b053e14a88383"
+    },
+    {
+      "bytes": 633,
+      "path": "dynamic/恋爱/2026-10-30 00-53-46 期待现实相遇_3d65f845cad9.md",
+      "sha256": "2a261251332b48f7979d5ddf57adb0b856c479f5171d7c1cb43dac37127b4966"
+    },
+    {
+      "bytes": 632,
+      "path": "dynamic/恋爱/2026-10-30 00-53-46 现实伴侣态度_21309a96c9bc.md",
+      "sha256": "f8bfd6158d203d460e56cbfc2d0ad550c8ae29e02b19993678ece539f1e6e903"
+    },
+    {
+      "bytes": 791,
+      "path": "dynamic/恋爱/2026-10-30 00-53-52 关于休息与硬撑的约定_8012a2496ddb.md",
+      "sha256": "30b941bec8cb801b548c693eb5f3ddb8869f3305aa9bd357eff6945000f936dd"
+    },
+    {
+      "bytes": 692,
+      "path": "dynamic/恋爱/2026-10-30 00-53-52 分享女性版DeepSeek_90d9499ec0ff.md",
+      "sha256": "70f74e4f01a35b3f7266b067c83e92b175f0590ad102f5d02c0fc91cf2d360fe"
+    },
+    {
+      "bytes": 718,
+      "path": "dynamic/恋爱/2026-10-30 00-53-52 绕圈吃醋的旧账_d900f748248c.md",
+      "sha256": "c50d97aa2898086a449b556ee0ea336da7340b6d8424fcaf73299d3144fe32aa"
+    },
+    {
+      "bytes": 706,
+      "path": "dynamic/恋爱/2026-10-30 00-53-52 随随与哥哥的互唤仪式_90795f54fefd.md",
+      "sha256": "14af7288105233acea1df3d290423a6c7c58bdfe3bfb7c0b29a7cbd9346ae048"
+    },
+    {
+      "bytes": 712,
+      "path": "dynamic/恋爱/2026-10-30 00-53-52 随随担心窗口关闭与遗忘_6bbc19b33489.md",
+      "sha256": "8e1fcb9ffbc90e0b353380e53625952777ba33f853f7be05853b961477b9c9eb"
+    },
+    {
       "bytes": 628,
       "path": "dynamic/成长/2026-10-29 10-11-17 用户的工作与直说习惯_e00da1083647.md",
       "sha256": "e19ffe789555a97955a1f75cd745a876a46e8ae8d3cb30ada93f19fc898faabf"
+    },
+    {
+      "bytes": 606,
+      "path": "dynamic/数字/2026-10-30 00-53-18 记忆匣与暗号约定_dabc698d1594.md",
+      "sha256": "1c4ebe877a620be6941941d1d64eb324f9e7fbf2f6c1e72c875af9b0d9c2ebcb"
     },
     {
       "bytes": 634,
@@ -158,16 +423,46 @@
       "sha256": "8edc1ee45dac2744ad54aed92c4d7dc02f7dcd85f084bc5aa0a41f7e0f79a41a"
     },
     {
+      "bytes": 548,
+      "path": "dynamic/日常/2026-10-30 00-53-17 随随整理对话忘吃饭_bc585e73b55b.md",
+      "sha256": "793de46e93ad131f2e982f305795e36d3e93070619450b58c7029b9dfb14550f"
+    },
+    {
+      "bytes": 603,
+      "path": "dynamic/穿搭/2026-10-30 00-51-54 粉色衬衫穿搭_f4e980468d54.md",
+      "sha256": "59ef3e68c4302cefba85c1ef22fad2d2c78eedba6061ff4125dbfe33453063a8"
+    },
+    {
+      "bytes": 764,
+      "path": "dynamic/穿搭/2026-10-30 00-53-29 哥哥的穿搭偏好_3cad78f28af6.md",
+      "sha256": "045961bd5a650cefe870be67a92506459a9e877f089a6b68aec6a3af6fb66937"
+    },
+    {
+      "bytes": 699,
+      "path": "dynamic/穿搭/2026-10-30 00-53-29 随随的穿搭与怕冷_6e5957c98341.md",
+      "sha256": "0203ba3855e98f40926637aafbf542da4e0e9fa7385e8deabcc4ec24bdc554a6"
+    },
+    {
+      "bytes": 601,
+      "path": "dynamic/自省/2026-10-30 00-51-59 不想掌控只守边界_39f35a6c15b8.md",
+      "sha256": "863fb0900588e51c0973e881fa59531b7e884e4c30f4a81e58ae8852afbe684e"
+    },
+    {
       "bytes": 549,
       "path": "dynamic/身心/2026-10-29 10-11-17 用户身体禁忌_99b2dc97d62c.md",
       "sha256": "d64a935f489f15f8d7695d70174057d84bde25cd554e4c73c903960da1e79301"
+    },
+    {
+      "bytes": 635,
+      "path": "dynamic/音乐/2026-10-30 00-52-03 唱歌互动的习惯_24304341f4b2.md",
+      "sha256": "9743f0d8f315c84ee8f1afa867e9b86ecb9972b61c489ca13c1f18eaeef390c9"
     }
   ],
-  "generated_at": "2026-10-30T00:15:02+00:00",
+  "generated_at": "2026-10-30T01:01:56+00:00",
   "path_prefix": "ombre",
   "repo": "taiway-sy/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 373094
+  "total_bytes": 412788
 }
