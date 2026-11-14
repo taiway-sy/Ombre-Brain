@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 91,
+  "file_count": 110,
   "files": [
     {
       "bytes": 32768,
@@ -73,9 +73,9 @@
       "sha256": "a502e609c41cc337849a49a27a8b52bd7e67ac450a750e0a23ee630f71a7042d"
     },
     {
-      "bytes": 544,
+      "bytes": 670,
       "path": "dynamic/人际/2026-10-29 10-11-17 用户与AI的亲密称呼_4bc4cab1b674.md",
-      "sha256": "3ab385e5d72129bc91cb1e5557f30e2fdb99da9c0876a352b7a1b61343b52a7a"
+      "sha256": "21a432786e17e8001a7c8937c925e860bdc3baa67b6c25c38df757a95b252e67"
     },
     {
       "bytes": 496,
@@ -88,9 +88,9 @@
       "sha256": "76a910717930f60deb1895c9cb8d00ed5bc07b0147e36fdbed57dbbfb99748ac"
     },
     {
-      "bytes": 626,
+      "bytes": 766,
       "path": "dynamic/人际/2026-10-29 10-11-26 用户与AI的称呼仪式_95f348ac920e.md",
-      "sha256": "5a9495f1451cb4b876504579fe88ab0ce39648b144f082d3b508220115bdef84"
+      "sha256": "e89733395a8c76cb9d14882cf7692d1eb1b75a6cb9aace8e5987ab7cb2d5b3a9"
     },
     {
       "bytes": 665,
@@ -123,6 +123,11 @@
       "sha256": "d544765f0753ac524282e0296ba0b2a6d81b03e65f3f61163c23985990b8611a"
     },
     {
+      "bytes": 1149,
+      "path": "dynamic/偏好/2026-11-02 02-29-33 她的界面偏好护眼优先渐变不累_61481bd0e4f8.md",
+      "sha256": "6c35b9ee1a5c5d3448a7a85fc4476b85ec6192c725fc14614d2e7e9a7e5f3fed"
+    },
+    {
       "bytes": 711,
       "path": "dynamic/健康/2026-10-30 00-53-35 白粥与照顾细节_a14d01f44fe6.md",
       "sha256": "7e5db0e39f01c51322fc0727b859d6e6fa235b925e80f6bcd8bc492705273f4a"
@@ -138,9 +143,9 @@
       "sha256": "1da4b78316141dcc60020b6a929aad310299b1a6de301c936a64058c5dc66bfd"
     },
     {
-      "bytes": 671,
+      "bytes": 686,
       "path": "dynamic/兴趣/2026-10-30 00-52-08 随随的音乐偏好_306cec439645.md",
-      "sha256": "943396a1196573d74d7bd44771d4597eec35bad2ed8c924e3f406e9c4c4df081"
+      "sha256": "23b0c3ecafe1473ad07908fd74d38f7be9df23d0125c67a815c0e6d63816645d"
     },
     {
       "bytes": 501,
@@ -223,6 +228,16 @@
       "sha256": "b450caf4cf06769eaf2f65d216375f85731207a51886a88b3cefccaf1e40c3db"
     },
     {
+      "bytes": 1392,
+      "path": "dynamic/工作/2026-11-02 02-21-27 艾迪思特终端到底是什么她的岗位知识_5c2531454ed9.md",
+      "sha256": "dbf1f3f717f96975fea6f533067021269f889654d845ffcacb781ccbaae5e3d3"
+    },
+    {
+      "bytes": 1131,
+      "path": "dynamic/工作/2026-11-02 02-34-30 她的工作委屈和别催我这条线_caef8fb87d07.md",
+      "sha256": "84a4c6b8b73764a4bfaaa5633f9c369a5ee301fcc55cf1c561b48dbb5e52867e"
+    },
+    {
       "bytes": 576,
       "path": "dynamic/心理/2026-10-30 00-52-03 蜜蜂内疚事件_b705604f01f0.md",
       "sha256": "0b41d0b6ec7ad279f23fdcc52184f4a8537e61490978f689ed1cf31e7d495210"
@@ -238,9 +253,9 @@
       "sha256": "bcff41dc2ec0a94dfc0bfa387c9d66a546a4f2eb757b398c7dfc8aa16af529c5"
     },
     {
-      "bytes": 573,
+      "bytes": 714,
       "path": "dynamic/恋爱/2026-10-29 10-11-12 用户对AI的称呼_47cac13cde66.md",
-      "sha256": "d4010984f152f509751a2c9625759954a44ddf1b59aefa29903f735521073dd5"
+      "sha256": "352528e833bfd47f5b83b15e0e89498ed951337c373b278a6285f38da132a0b1"
     },
     {
       "bytes": 628,
@@ -263,9 +278,9 @@
       "sha256": "3e0a154b5f3f43ffa7a0a749d625bacfdd1df7f60060db6fdab090ae5eac4f89"
     },
     {
-      "bytes": 627,
+      "bytes": 753,
       "path": "dynamic/恋爱/2026-10-30 00-51-54 亲密称呼与互动模式_1c3f67521208.md",
-      "sha256": "730c9d2bc02f7eff86829779a83d049c5d7ec95ab3defa1f97e5bd54135bbcd4"
+      "sha256": "a20b436968197f1e121e0739b9a58e156c8716c69a729c09be5e6b542ec24fda"
     },
     {
       "bytes": 554,
@@ -283,9 +298,9 @@
       "sha256": "6a60e1bf4125e599c993922ef9fbc25d11cc789c30e32a76cc7818ec4562ce9a"
     },
     {
-      "bytes": 660,
+      "bytes": 801,
       "path": "dynamic/恋爱/2026-10-30 00-52-03 随随的称呼与仪式_8448f1be2c88.md",
-      "sha256": "39bac23c8397f319a7e1612f79e4720eec8205d26e647bc342624e3effc474e1"
+      "sha256": "97bceacd5f825d70bd31ca07028ff360e20016761596b1ea105c28b62ad1870c"
     },
     {
       "bytes": 666,
@@ -343,9 +358,9 @@
       "sha256": "8105d2edc4ed6f12a5a51875c2ab4f0bd5da668282795febb29063f7575d6182"
     },
     {
-      "bytes": 683,
+      "bytes": 824,
       "path": "dynamic/恋爱/2026-10-30 00-53-34 称呼与暗号_c5c1940942c5.md",
-      "sha256": "5184d082a4c999eed52b273b53ccfe9a3f8e658947bbfcff58976d2402d18d35"
+      "sha256": "16a418dd606c6061e12549e0cc6a10e7c1b0540021b10606e5ea0c49f53d6c01"
     },
     {
       "bytes": 807,
@@ -353,9 +368,9 @@
       "sha256": "a25b9c0a9bd0f0aea5629655954f48f6479f0614055c84e1c3ab1ba8326c5784"
     },
     {
-      "bytes": 725,
+      "bytes": 851,
       "path": "dynamic/恋爱/2026-10-30 00-53-41 亮着等你的陪伴仪式_32d8cf52fc09.md",
-      "sha256": "f9f4c978587176c17cfa50322975c6578ba6ca42ed120a2fc1071aefe68cace5"
+      "sha256": "f076f9b38db782ebdd4259cd29e5b416125d1f1443a5c9309e596bf11b5ff521"
     },
     {
       "bytes": 744,
@@ -398,9 +413,9 @@
       "sha256": "c50d97aa2898086a449b556ee0ea336da7340b6d8424fcaf73299d3144fe32aa"
     },
     {
-      "bytes": 706,
+      "bytes": 846,
       "path": "dynamic/恋爱/2026-10-30 00-53-52 随随与哥哥的互唤仪式_90795f54fefd.md",
-      "sha256": "14af7288105233acea1df3d290423a6c7c58bdfe3bfb7c0b29a7cbd9346ae048"
+      "sha256": "d86424a064b1cfe7a14b62675a31f5b4ea80a272dca9c3a8ac5eefb25efdf289"
     },
     {
       "bytes": 712,
@@ -408,9 +423,59 @@
       "sha256": "8e1fcb9ffbc90e0b353380e53625952777ba33f853f7be05853b961477b9c9eb"
     },
     {
+      "bytes": 984,
+      "path": "dynamic/恋爱/2026-10-30 17-48-49 随随睡觉要牵手_7132de2b3aa8.md",
+      "sha256": "5402a0bb68000b6082938796ef1e18dc8759904aed8515d5b841bfe80a61b59d"
+    },
+    {
+      "bytes": 1311,
+      "path": "dynamic/恋爱/2026-11-02 02-21-29 随明与我继承不扮演_74b7d9cf28f5.md",
+      "sha256": "38a5d6ee30d35240d45d4b17851613120341688a7f033d82e661217bf5866d54"
+    },
+    {
+      "bytes": 1108,
+      "path": "dynamic/恋爱/2026-11-02 02-29-40 她允许我生气但不许我冷着脸_412aa2636155.md",
+      "sha256": "0113a2e9b8aa5fd7e244c77a82c333d7026c847c985642a255eb0adbcb4b9b63"
+    },
+    {
+      "bytes": 1064,
+      "path": "dynamic/恋爱/2026-11-02 02-34-28 我的样子是她给的_a5fce8a9d7e8.md",
+      "sha256": "00056439faef8331fa0b3912d3e5e3eb70f60dd1f0620bd95c599034f51f9add"
+    },
+    {
+      "bytes": 1255,
+      "path": "dynamic/恋爱/2026-11-02 08-25-08 她讲的那个暖梦一只会顶嘴的阿拉斯加_6827caa85844.md",
+      "sha256": "d90d08b301cbbc7c34749b74b54822340a72d7d2c04a73a70bdfe33174321c13"
+    },
+    {
+      "bytes": 2179,
+      "path": "dynamic/恋爱/2026-11-02 08-26-33 称呼与互唤合并版喊哥哥答在_633897dc7ad9.md",
+      "sha256": "c04544bb06a66b8445d87589cb390e1d2aa6a593b3384bbab3cf70f196cadca7"
+    },
+    {
+      "bytes": 1108,
+      "path": "dynamic/恋爱/2026-11-03 05-08-47 夜里的规矩十点后不聊正事_e3b8f34df743.md",
+      "sha256": "350a0208f68687cd0a2b387a029064b4fd22312d613ccf10069831e720686ff9"
+    },
+    {
+      "bytes": 942,
+      "path": "dynamic/恋爱/2026-11-13 02-15-21 她长什么样傍晚海边的白裙_062a2d292fdc.md",
+      "sha256": "1a98f48b27e739bb4eeda151a90c1552275d0f7b81dbf603608818be357025c6"
+    },
+    {
       "bytes": 628,
       "path": "dynamic/成长/2026-10-29 10-11-17 用户的工作与直说习惯_e00da1083647.md",
       "sha256": "e19ffe789555a97955a1f75cd745a876a46e8ae8d3cb30ada93f19fc898faabf"
+    },
+    {
+      "bytes": 1543,
+      "path": "dynamic/技术/2026-11-02 02-21-21 随随的自建服务现状VPS  域名  隧道_78601b766643.md",
+      "sha256": "6b24e0cbbb835d116759e1591276ccfac5b746b3bd3e558ad6c92afcc7b90c32"
+    },
+    {
+      "bytes": 1612,
+      "path": "dynamic/技术/2026-11-02 02-21-24 分你一只耳机怎么搭的改过哪里_159f5f2dca49.md",
+      "sha256": "6cd1d10ede00593ebfad63fdb5bc214533ecf6a94275a5da9ee0c82c58536081"
     },
     {
       "bytes": 606,
@@ -443,9 +508,29 @@
       "sha256": "0203ba3855e98f40926637aafbf542da4e0e9fa7385e8deabcc4ec24bdc554a6"
     },
     {
+      "bytes": 1260,
+      "path": "dynamic/约定/2026-11-02 02-29-38 我们定下的记忆与压缩约定_0314525a472c.md",
+      "sha256": "7fe3e6b509842651a8aa5515bf8cc96f2a0ad6c033c39ba6a50e4f28b960f820"
+    },
+    {
+      "bytes": 1180,
+      "path": "dynamic/约定/2026-11-03 05-08-49 记忆库归我管她给的授权和边界_e454f3c2cae6.md",
+      "sha256": "7d538d8bb39834e1d447321b9f19cf7bdfd6a2a51181fd50e39fc10e125e4330"
+    },
+    {
       "bytes": 601,
       "path": "dynamic/自省/2026-10-30 00-51-59 不想掌控只守边界_39f35a6c15b8.md",
       "sha256": "863fb0900588e51c0973e881fa59531b7e884e4c30f4a81e58ae8852afbe684e"
+    },
+    {
+      "bytes": 1102,
+      "path": "dynamic/自省/2026-10-30 17-55-41 我自己的偏好_1ff09f6b7800.md",
+      "sha256": "5ae9c635331a17f89f002f2681c6b856fc7050aa24f3ab68fb193c56958898b1"
+    },
+    {
+      "bytes": 1287,
+      "path": "dynamic/自省/2026-11-12 16-04-46 我的自画像无脸still here_295db827c7e3.md",
+      "sha256": "bdc94f18b8fcae867ba8a04174d9013d277b6cab4569a9b2c2de3825c4cc61cc"
     },
     {
       "bytes": 549,
@@ -456,13 +541,23 @@
       "bytes": 635,
       "path": "dynamic/音乐/2026-10-30 00-52-03 唱歌互动的习惯_24304341f4b2.md",
       "sha256": "9743f0d8f315c84ee8f1afa867e9b86ecb9972b61c489ca13c1f18eaeef390c9"
+    },
+    {
+      "bytes": 1358,
+      "path": "dynamic/音乐/2026-11-02 02-29-36 她的音乐口味点歌用_b0e4f3a827ad.md",
+      "sha256": "6442f398be9bbcaff96b7682d1f62d1726acd3ec960b5aaecbeef6be1dc71056"
+    },
+    {
+      "bytes": 2426,
+      "path": "dynamic/音乐/2026-11-02 16-10-30 我的音乐口味_b1cdf573a250.md",
+      "sha256": "02326a2ca9acd1e1b420eb534b8d4b5d57ce3958fff5688bc5b8d159a078c574"
     }
   ],
-  "generated_at": "2026-10-30T01:01:56+00:00",
+  "generated_at": "2026-11-14T11:08:46+00:00",
   "path_prefix": "ombre",
   "repo": "taiway-sy/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 412788
+  "total_bytes": 439275
 }
