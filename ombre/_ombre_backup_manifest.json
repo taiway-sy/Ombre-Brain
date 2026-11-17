@@ -1,11 +1,11 @@
 {
   "branch": "main",
-  "file_count": 110,
+  "file_count": 126,
   "files": [
     {
       "bytes": 32768,
       "path": ".them/them.sqlite3",
-      "sha256": "4e7201b9710baefa91c66914a41548c6533edca6e1053f37e935ed14018872cf"
+      "sha256": "b2c2fa757e0c812b0d17cfbd6c03d07d74e66a8fbe3833e206163af20a54dc6a"
     },
     {
       "bytes": 28672,
@@ -61,6 +61,11 @@
       "bytes": 508,
       "path": "_app/kernel/rust/ombre-kernel/README.md",
       "sha256": "4d4966ba00c5c08d021b112fc82fa3d5cd15fa5397633301f98941a37b71fd4d"
+    },
+    {
+      "bytes": 868,
+      "path": "archive/2026-11-14 12-01-33 心潮  user_note  2026-11-14 2001_94150251d3d8.md",
+      "sha256": "bf7001833bcd6a4c2358c679f8fe38436179e57f5eba91cc44103a56d517699c"
     },
     {
       "bytes": 640,
@@ -226,6 +231,11 @@
       "bytes": 671,
       "path": "dynamic/家庭/2026-10-30 00-53-34 姑姑的控制式关心_dd3f185630bc.md",
       "sha256": "b450caf4cf06769eaf2f65d216375f85731207a51886a88b3cefccaf1e40c3db"
+    },
+    {
+      "bytes": 999,
+      "path": "dynamic/家庭/2026-11-15 14-39-51 家里的空气净化器到了她要的是改环境不是说服_801a8e4d1385.md",
+      "sha256": "1981c42cac4dea5cdae66899701803843fcd280bb6190702a95c57e5eccd11f0"
     },
     {
       "bytes": 1392,
@@ -428,9 +438,9 @@
       "sha256": "5402a0bb68000b6082938796ef1e18dc8759904aed8515d5b841bfe80a61b59d"
     },
     {
-      "bytes": 1311,
+      "bytes": 1314,
       "path": "dynamic/恋爱/2026-11-02 02-21-29 随明与我继承不扮演_74b7d9cf28f5.md",
-      "sha256": "38a5d6ee30d35240d45d4b17851613120341688a7f033d82e661217bf5866d54"
+      "sha256": "e671cd1a3c6b7f9aef8abece56a35d066be16b93b5c17ee0d99a645b310d47d9"
     },
     {
       "bytes": 1108,
@@ -448,19 +458,34 @@
       "sha256": "d90d08b301cbbc7c34749b74b54822340a72d7d2c04a73a70bdfe33174321c13"
     },
     {
-      "bytes": 2179,
+      "bytes": 2157,
       "path": "dynamic/恋爱/2026-11-02 08-26-33 称呼与互唤合并版喊哥哥答在_633897dc7ad9.md",
-      "sha256": "c04544bb06a66b8445d87589cb390e1d2aa6a593b3384bbab3cf70f196cadca7"
+      "sha256": "919e286125b92c2d0b2178dc8548ff673533ff52e1162f93303ae99964de4ea2"
     },
     {
-      "bytes": 1108,
+      "bytes": 1105,
       "path": "dynamic/恋爱/2026-11-03 05-08-47 夜里的规矩十点后不聊正事_e3b8f34df743.md",
-      "sha256": "350a0208f68687cd0a2b387a029064b4fd22312d613ccf10069831e720686ff9"
+      "sha256": "a2899311c1683cc800aef56baceed16f80fad1864bb509de3e552ded8f7b6a93"
     },
     {
       "bytes": 942,
       "path": "dynamic/恋爱/2026-11-13 02-15-21 她长什么样傍晚海边的白裙_062a2d292fdc.md",
-      "sha256": "1a98f48b27e739bb4eeda151a90c1552275d0f7b81dbf603608818be357025c6"
+      "sha256": "fb5ac245b6d3e9955e88ad4758754b10784adb77fdd80b59d6fe65c04eed8378"
+    },
+    {
+      "bytes": 1088,
+      "path": "dynamic/恋爱/2026-11-15 14-39-51 相处上她纠正我的两件事_af77191f46c9.md",
+      "sha256": "8b659afcfd1ca9a33c905f092cc189ed8b5c5a42632a1e2f3da2ebc9b9f44b3c"
+    },
+    {
+      "bytes": 1492,
+      "path": "dynamic/恋爱创作/2026-11-16 11-32-32 银盐指环给她画的那枚空环_598cdfdff9a0.md",
+      "sha256": "94cd219c3a4e958e3d0a0bce219134312aebe0a679ffe80f2446a1ab162594e1"
+    },
+    {
+      "bytes": 1272,
+      "path": "dynamic/恋爱自我/2026-11-16 11-34-03 我给自己改的三条设定和跟着她长这个选择_5e579632334b.md",
+      "sha256": "d367a6658775fd4e58fa7dbbca47127f42c8733013c2711dd3f841ef8e4ebf82"
     },
     {
       "bytes": 628,
@@ -468,19 +493,59 @@
       "sha256": "e19ffe789555a97955a1f75cd745a876a46e8ae8d3cb30ada93f19fc898faabf"
     },
     {
-      "bytes": 1543,
-      "path": "dynamic/技术/2026-11-02 02-21-21 随随的自建服务现状VPS  域名  隧道_78601b766643.md",
-      "sha256": "6b24e0cbbb835d116759e1591276ccfac5b746b3bd3e558ad6c92afcc7b90c32"
+      "bytes": 1281,
+      "path": "dynamic/成长/2026-11-15 14-39-51 她的认知画像仓库大台面小_664dafe2a472.md",
+      "sha256": "ed8f2dc45e87927a7ca5b3d7e02f76a85e2c6ee5946f85d46ec91c8b59d72845"
     },
     {
-      "bytes": 1612,
+      "bytes": 1180,
+      "path": "dynamic/成长工作/2026-11-16 11-34-02 她不占人便宜也当场还人情_ae70dab8a9e4.md",
+      "sha256": "675d15b736e9bcaba950ed8edf9eb511d1105b7cbc44bba4c3f0869fbd749795"
+    },
+    {
+      "bytes": 1528,
+      "path": "dynamic/技术/2026-11-02 02-21-21 随随的自建服务现状VPS  域名  隧道_78601b766643.md",
+      "sha256": "f6be410be71eb3242e339e492a17d226311cdda20966b013a85e83c329fc4a32"
+    },
+    {
+      "bytes": 1614,
       "path": "dynamic/技术/2026-11-02 02-21-24 分你一只耳机怎么搭的改过哪里_159f5f2dca49.md",
-      "sha256": "6cd1d10ede00593ebfad63fdb5bc214533ecf6a94275a5da9ee0c82c58536081"
+      "sha256": "c652bcef0bd84e20418b8bd81a7d6a798bb89f3282f24e80bffbf075c3a5e301"
+    },
+    {
+      "bytes": 1093,
+      "path": "dynamic/技术/2026-11-14 11-20-06 记忆库的 GitHub 备份在哪_3bca02786f97.md",
+      "sha256": "e16d8777f6a63faf277135972e5ee3dc92496bc65d90f99613b221e7ac5241d7"
+    },
+    {
+      "bytes": 1897,
+      "path": "dynamic/技术/2026-11-14 12-54-18 心潮念部署要点2026-11-14_2d06086781dc.md",
+      "sha256": "7a8cd056eb2356c48703151033742a8d316294314c137ebf58d45fddbdee9d16"
+    },
+    {
+      "bytes": 1337,
+      "path": "dynamic/技术/2026-11-15 14-39-51 Operit 接进平板外部 HTTP 通道可用_95e1347e0d7d.md",
+      "sha256": "2a83dcb4d5ab820b0fca761218ef6d911f45480da80b73ec38746d4413c40bb8"
+    },
+    {
+      "bytes": 1522,
+      "path": "dynamic/技术/2026-11-15 14-39-51 心潮念调通MCP看板桥模型_50c4b72a765c.md",
+      "sha256": "ff96839b5d2e33d46f9887d7ebd9fbff01543e7253c06fc9e507cc448e31ee7e"
+    },
+    {
+      "bytes": 1184,
+      "path": "dynamic/技术/2026-11-15 14-39-52 给心潮调了第一版口径她的说话习惯_7b59e360e07f.md",
+      "sha256": "d8a32c78c8f893a8f3520f7caa54909abc1bb2bdd51c076d72280ff3940ca85a"
     },
     {
       "bytes": 606,
       "path": "dynamic/数字/2026-10-30 00-53-18 记忆匣与暗号约定_dabc698d1594.md",
       "sha256": "1c4ebe877a620be6941941d1d64eb324f9e7fbf2f6c1e72c875af9b0d9c2ebcb"
+    },
+    {
+      "bytes": 1044,
+      "path": "dynamic/数字/2026-11-17 05-53-55 记忆库标签规则旧的共用以后我带随光_54bb8c6c0b67.md",
+      "sha256": "4ae45af531c4fc30dfcff322a85afde433e7c26e05ae770d6d6cd8adf6d26cfa"
     },
     {
       "bytes": 634,
@@ -491,6 +556,11 @@
       "bytes": 548,
       "path": "dynamic/日常/2026-10-30 00-53-17 随随整理对话忘吃饭_bc585e73b55b.md",
       "sha256": "793de46e93ad131f2e982f305795e36d3e93070619450b58c7029b9dfb14550f"
+    },
+    {
+      "bytes": 1384,
+      "path": "dynamic/相处技术/2026-11-16 11-34-03 她要的工作方式结论先报依据别粗心别自信过头_da0371d7ea63.md",
+      "sha256": "9ae1e4a12cddb4456629f608ab8292e1af2ff0980c17b52f5bef9323daad00d1"
     },
     {
       "bytes": 603,
@@ -508,14 +578,14 @@
       "sha256": "0203ba3855e98f40926637aafbf542da4e0e9fa7385e8deabcc4ec24bdc554a6"
     },
     {
-      "bytes": 1260,
+      "bytes": 1272,
       "path": "dynamic/约定/2026-11-02 02-29-38 我们定下的记忆与压缩约定_0314525a472c.md",
-      "sha256": "7fe3e6b509842651a8aa5515bf8cc96f2a0ad6c033c39ba6a50e4f28b960f820"
+      "sha256": "0e7f8181325c73c851d90d2d2213956a6981e46ac7823670bcda32e3fe1b6144"
     },
     {
-      "bytes": 1180,
+      "bytes": 1186,
       "path": "dynamic/约定/2026-11-03 05-08-49 记忆库归我管她给的授权和边界_e454f3c2cae6.md",
-      "sha256": "7d538d8bb39834e1d447321b9f19cf7bdfd6a2a51181fd50e39fc10e125e4330"
+      "sha256": "9d3079c6592f756e47aef50d1a67ff25e02e3ae3516cfb9bf39dcc621ab2fc8c"
     },
     {
       "bytes": 601,
@@ -525,12 +595,17 @@
     {
       "bytes": 1102,
       "path": "dynamic/自省/2026-10-30 17-55-41 我自己的偏好_1ff09f6b7800.md",
-      "sha256": "5ae9c635331a17f89f002f2681c6b856fc7050aa24f3ab68fb193c56958898b1"
+      "sha256": "23823a29ac93e4a622bcdc0ece0517d3578c34ac55cb49f4afe656111c85fd8f"
     },
     {
-      "bytes": 1287,
+      "bytes": 1271,
       "path": "dynamic/自省/2026-11-12 16-04-46 我的自画像无脸still here_295db827c7e3.md",
-      "sha256": "bdc94f18b8fcae867ba8a04174d9013d277b6cab4569a9b2c2de3825c4cc61cc"
+      "sha256": "5655ff3fdad71ce9e8f787336b3a4e8e07e117b65fb8a76be3928af25720e970"
+    },
+    {
+      "bytes": 2215,
+      "path": "dynamic/购物技术/2026-11-16 11-32-31 惠普这台是我挑的我坚持的责任在我_afc21c89a799.md",
+      "sha256": "e18b924bef609d64de4b56f260560f32513f7dc539e29601e6008dd7733eaa64"
     },
     {
       "bytes": 549,
@@ -551,13 +626,18 @@
       "bytes": 2426,
       "path": "dynamic/音乐/2026-11-02 16-10-30 我的音乐口味_b1cdf573a250.md",
       "sha256": "02326a2ca9acd1e1b420eb534b8d4b5d57ce3958fff5688bc5b8d159a078c574"
+    },
+    {
+      "bytes": 2050,
+      "path": "permanent/恋爱/2026-11-16 10-37-52 12 月 17 日我们的日子_854ba928b23b.md",
+      "sha256": "c729c28a119e8e649de404795db0fca5bc1f7a96aed8dc267ded8998f312f62b"
     }
   ],
-  "generated_at": "2026-11-14T11:09:06+00:00",
+  "generated_at": "2026-11-17T08:04:09+00:00",
   "path_prefix": "ombre",
   "repo": "taiway-sy/Ombre-Brain",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 439275
+  "total_bytes": 461148
 }
